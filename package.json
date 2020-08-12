@@ -1,0 +1,20 @@
+{
+    "name": "jira-branch-extension",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "parcel build ./index.html",
+        "start": "parcel serve ./index.html",
+        "server": "json-server --watch ./data/data.json --routes ./data/routes.json"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "parcel": "^2.0.0-alpha.3.2"
+    },
+    "dependencies": {
+        "json-server": "^0.16.1"
+    }
+}

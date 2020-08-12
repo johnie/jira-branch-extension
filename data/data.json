@@ -1,0 +1,11 @@
+{
+	"issue": {
+		"expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+		"id": "473605",
+		"self": "https://jira.mrgreen.zone/rest/api/latest/issue/473605",
+		"key": "PRGG-487",
+		"fields": {
+			"summary": "Deposit limit link in secondary menu is wrong"
+		}
+	}
+}
